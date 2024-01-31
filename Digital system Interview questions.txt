@@ -1,0 +1,28 @@
+What is a multiplexer?
+What is meant by LUT?
+ What is meant by bit Binary multiplier?
+What is a ring counter?
+What are PLA and PAL? Give the differences between them.
+16x1 mux using 4x1 muxes
+Compare and Contrast Synchronous and Asynchronous reset.
+How can you convert a JK flip-flop to a D flip-flop?
+What is the Reset basics?
+What is a Johnson counter?
+How to build an XOR gate using NAND gates?
+In a 4-bit Johnson counter How many unused states are present?
+Delay line based Time to digital converter.
+What are the differences between a flip-flop and a latch?
+What is the difference between Mealy and Moore FSM?
+Explain about setup time and hold time, what will happen if there is setup time and hold tine violation, how to overcome this?
+What is skew, what are problems associated with it and how to minimize it?
+What is glitch? What causes it (explain with waveform)? How to overcome it?
+Given only two xor gates one must function as buffer and another as inverter?
+What is difference between latch and flipflop?
+Build a 4:1 mux using only 2:1 mux?
+Difference between onehot and binary encoding?
+What are different ways to synchronize between two clock domains?
+How to calculate maximum operating frequency?
+How to find out longest path?
+Tell some of applications of buffer?
+Implement an AND gate using mux?
+What will happen if contents of register are shifter left, right?

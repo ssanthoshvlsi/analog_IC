@@ -1,0 +1,15 @@
+
+
+1. Explain the factors influencing the sizing of transistors in an analog layout.
+2. How does transistor sizing impact the performance of analog circuits?
+3. Discuss the importance of transistor matching in analog layout design.
+4. How do you address mismatch issues in differential pairs in your layout?
+5. What is the purpose of guard rings and well taps in analog layout?
+6. Describe the considerations for routing signals in analog layout.
+7.How do you choose the appropriate metal layers for different types of signals?
+8.Explain the concept of common-centroid layout and its advantages.
+9.Provide an example of when and why you would use common-centroid layout for analog circuitry.
+10.Discuss the strategies for efficient power distribution in analog layout.
+11.What are the key considerations in the layout of operational amplifiers (op-amps)?
+12.Explain the importance of design rule checking in analog layout.
+13.What are common DRC issues specific to analog circuits, and how do you prevent them?
